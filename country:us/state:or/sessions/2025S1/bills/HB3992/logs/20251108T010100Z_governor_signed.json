@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Governor signed.",
+    "date": "2025-11-08T01:01:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB3992"
+}
